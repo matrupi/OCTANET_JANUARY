@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+    
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fogg Perfumes</title>
+    <link rel="icon" href="download.png">
+    <link rel="stylesheet" href="style.css">
+   
+</head>
+
+<body background="istockphoto-813570918-612x612.jpg">
+    <div class="header">
+        <nav>
+            <h1>Fogg Perfumes</h1>
+            <ul>
+                <li>Home|</li>
+                <li> <a href="AboutUS.html">Products|</a></li>
+                <li > <a href="AboutUS.html">About Us|</a></li>
+                <li><a href="AboutUS.html">Contact Us</a></li>
+            </ul>
+        </nav>
+
+    </div>
+        <div class="searchbar">
+            <input type="text" placeholder="Search Product">
+    
+
+    </div>
+
+    <div class="products">
+        <div class="box">
+        <img src="Perfume 1.jpg" width="52.5%">
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusamus modi pariatur doloribus quia? Dignissimos asperiores atque blanditiis. Cum debitis ipsa et id quia officiis deserunt!</p>
+     </div>
+
+        <div class="box">
+        <img src="parb2_512.webp" width="70%">
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusamus modi pariatur doloribus quia? Dignissimos asperiores atque blanditiis. Cum debitis ipsa et id quia officiis deserunt!</p>
+     </div>
+
+       <div class="box">
+        <img src="fogg-mens-long-lasting-fresh-and-powerful-fragrance-xpressio-scent-eau-de-parfum-100ml-6.1-1674204068.webp" width="70%" >
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusamus modi pariatur doloribus quia? Dignissimos asperiores atque blanditiis. Cum debitis ipsa et id quia officiis deserunt!</p>
+        
+     </div>  
+
+    </div>
+    <div class="AboutUs">
+        <center>
+        <h2>About Us</h2>
+        </center>
+        <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dolorem voluptate minima facilis quas ut voluptas tempora ratione, sint, quis voluptatem qui similique. Magni sapiente suscipit deleniti asperiores aliquam qui eligendi harum sunt voluptate, dolore expedita explicabo, reiciendis, corporis aspernatur! Praesentium distinctio alias consectetur veritatis! Consectetur, adipisci? Unde, itaque et commodi quae dolor in? Nobis amet porro aliquam ratione doloremque quis quas tenetur ex voluptate officiis modi libero nisi sit, a voluptates maxime blanditiis illum tempora culpa. Quae, cupiditate. Ullam soluta at delectus, consequuntur, debitis quis dolore id fugit assumenda omnis iure explicabo rerum in suscipit quidem ratione illum iste eveniet!
+
+        </p>
+    </div>
+    <div class="ContactUs">
+        <center>
+            <h3>Contact Us</h3>
+            <h4>+91 6374914981</h4>
+            <h5>helpdesk@perfumes.com</h5>
+            <p style="margin-top: 30px; font-size: 20px;" colour=>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Modi laborum doloribus ipsam. Atque aliquam accusantium magni suscipit aspernatur laboriosam dolore ut impedit itaque deserunt nisi nostrum placeat voluptatibus numquam tempore dicta iste, accusamus excepturi cum ducimus autem. Nobis quaerat beatae ipsum, laudantium, cum facilis quo ex culpa officiis maxime quam
+
+            </p>
+        </center>
+    </div>
+</body>
+</html>
